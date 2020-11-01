@@ -1,22 +1,12 @@
 import './App.css';
 import React from 'react';
+import employees from './employees.json';
 import Employees from './components/Employees';
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      employees: [
-        {
-          name: "John Doe",
-          title: "Engineer"
-        },
-        {
-          name: "Jane Doe",
-          title: "CEO"
-        }
-      ]
-    };
+    this.state = { employees };
   }
 
   render() {
