@@ -8,9 +8,11 @@ class Employee extends React.Component {
           <img className="card-img-top" src={this.props.employee.picture} alt={this.props.employee.name}></img>
           <div className="card-body">
             <h5 className="card-title">{this.props.employee.name}</h5>
-            <h6 className="card-subtitle sm-2 text-muted"> {this.props.employee.title}</h6>
-            <h6 className="card-subtitle sm-2 text-muted"> {this.props.employee.email}</h6>
-            <h6 className="card-subtitle sm-2 text-muted"> {this.props.employee.location}</h6>
+            <ul className="list-group">
+              <li className="list-group-item" id="employeeInfo">{this.props.employee.title}</li>
+              <li className="list-group-item" id="employeeInfo">{this.props.employee.email}</li>
+              <li className="list-group-item" id="employeeInfo">{this.props.employee.location}</li>
+            </ul>
           </div>
         </div>
       </div>

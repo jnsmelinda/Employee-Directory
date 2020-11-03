@@ -29,16 +29,29 @@ class App extends React.Component {
         <div className="jumbotron">
           <h1 className="display-4">Employee Directory</h1>
         </div>
-        <div className="row">
-          <input type="text" className="form-control" onChange={(event) => this.handleNameSearchChange(event)}></input>
-          <select className="form-control" onChange={(event) => this.handleSortChange(event)}>
-            <option selected>name</option>
-            <option>title</option>
-            <option>email</option>
-            <option>location</option>
-          </select>
+        <div className="container">
+          <div className="row" id="inputRow">
+            <div className="col">
+              <label>Search</label>
+              <input type="text" className="form-control" onChange={(event) => this.handleNameSearchChange(event)}></input>
+            </div>
+            <div className="col">
+              <label>Sort</label>
+              <select className="form-control" onChange={(event) => this.handleSortChange(event)}>
+                <option selected>name</option>
+                <option>title</option>
+                <option>email</option>
+                <option>location</option>
+              </select>
+            </div>
+          </div>
         </div>
         <Employees employees={this.state.employees} />
+        <footer>
+          <div class="container">
+            <span class="text-muted">© 2020 Melinda Ivanov</span>
+          </div>
+        </footer>
       </div>
     );
   }
