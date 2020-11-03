@@ -20,7 +20,7 @@ As a user, I want to be able to view my entire employee directory at once so tha
 ## Demo
 You can watch the demo video [here](https://youtu.be/137-aDDXy1o).
 
-![](images/EmployeeDirectory.PNG)
+![](images/demo.PNG)
 
 ## License
 This repository is protected under the [MIT](https://choosealicense.com/licenses/mit/) license.
