@@ -18,9 +18,7 @@ As a user, I want to be able to view my entire employee directory at once so tha
 - https://jnsmelinda.github.io/Employee-Directory/
 
 ## Demo
-You can watch the demo video [here](https://youtu.be/137-aDDXy1o).
-
-![](images/demo.PNG)
+You can watch the demo video on [youtube](https://youtu.be/137-aDDXy1o).
 
 ## License
 This repository is protected under the [MIT](https://choosealicense.com/licenses/mit/) license.
