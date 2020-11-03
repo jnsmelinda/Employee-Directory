@@ -29,7 +29,7 @@
   },
   {
     "name": "Nelson George",
-    "title": "Software Engineer",
+    "title": "Technical Writer",
     "email": "nelson.george@example.com",
     "picture": "https://randomuser.me/api/portraits/men/62.jpg",
     "location": "Topeka, Arkansas"
@@ -43,7 +43,7 @@
   },
   {
     "name": "Leslie Barnes",
-    "title": "Software Engineer",
+    "title": "CEO",
     "email": "leslie.barnes@example.com",
     "picture": "https://randomuser.me/api/portraits/women/0.jpg",
     "location": "Fayetteville, New Mexico"
@@ -57,7 +57,7 @@
   },
   {
     "name": "Milton Thomas",
-    "title": "Software Engineer",
+    "title": "Intern",
     "email": "milton.thomas@example.com",
     "picture": "https://randomuser.me/api/portraits/men/6.jpg",
     "location": "Grants Pass, Georgia"
@@ -78,7 +78,7 @@
   },
   {
     "name": "Jackie Flores",
-    "title": "Software Engineer",
+    "title": "Office Manager",
     "email": "jackie.flores@example.com",
     "picture": "https://randomuser.me/api/portraits/women/79.jpg",
     "location": "St. Petersburg, Kentucky"
@@ -92,14 +92,14 @@
   },
   {
     "name": "Samuel King",
-    "title": "Software Engineer",
+    "title": "Project Manager",
     "email": "samuel.king@example.com",
     "picture": "https://randomuser.me/api/portraits/men/97.jpg",
     "location": "Round Rock, Colorado"
   },
   {
     "name": "Hugh Dixon",
-    "title": "Software Engineer",
+    "title": "CTO",
     "email": "hugh.dixon@example.com",
     "picture": "https://randomuser.me/api/portraits/men/50.jpg",
     "location": "Newark, Florida"
@@ -239,7 +239,7 @@
   },
   {
     "name": "Courtney Mcdonalid",
-    "title": "Software Engineer",
+    "title": "Intern",
     "email": "courtney.mcd@example.com",
     "picture": "https://randomuser.me/api/portraits/women/50.jpg",
     "location": "Hollywood, Maryland"
@@ -260,7 +260,7 @@
   },
   {
     "name": "Russell Jordan",
-    "title": "CEO",
+    "title": "Software Engineer",
     "email": "russell.jordan@example.com",
     "picture": "https://randomuser.me/api/portraits/men/80.jpg",
     "location": "Iowa Park, Nevada"
@@ -288,7 +288,7 @@
   },
   {
     "name": "Emily Crawford",
-    "title": "Software Engineer",
+    "title": "Project Manager",
     "email": "emily.crawford@example.com",
     "picture": "https://randomuser.me/api/portraits/women/46.jpg",
     "location": "Knoxville, Kentucky"
